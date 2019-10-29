@@ -5,4 +5,4 @@ permalink: /about/
 published: true
 ---
 
-第一次建博客，有点懵逼，大家见谅。
+没了
